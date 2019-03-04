@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{f5174c56-3082-4044-807d-ba54ec62293a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2018.11.20\BC.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\BC4BC5.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\BC6HBC7.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\BCDirectCompute.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexCompress.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexCompressGPU.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexConvert.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexD3D11.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexDDS.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexFlipRotate.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexHDR.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexImage.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexMipmaps.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexMisc.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexNormalMaps.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexPMAlpha.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexResize.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexTGA.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexUtil.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="2018.11.20\DirectXTexWIC.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2018.11.20\BC.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\BCDirectCompute.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\DDS.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\DirectXTex.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\DirectXTexP.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\Filters.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="2018.11.20\scoped.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2018.11.20\DirectXTex.inl">
+      <Filter>Source</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="License.txt" />
+  </ItemGroup>
+</Project>

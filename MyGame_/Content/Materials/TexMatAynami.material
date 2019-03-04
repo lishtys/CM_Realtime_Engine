@@ -1,0 +1,6 @@
+return
+{
+  tintColor={1,1,1,1},
+  effectPath={"Effects/Solid.effect"},
+  albedo={"Textures/Ayanami.jpg"},
+}

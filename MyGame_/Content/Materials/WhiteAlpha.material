@@ -1,0 +1,6 @@
+return
+{
+  tintColor={1,1,1,0.8},
+  effectPath={"Effects/transparent.effect"},
+  albedo={"Textures/Yo.png"},
+}

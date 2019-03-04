@@ -1,32 +1,60 @@
-# Prerequisites
-*.d
+# This file instructs git to ignore specific directories,
+# files, and file types
+# ("ignore" meaning that they won't be included
+# in the git repository)
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# EAE6320 Temporary Files
+#========================
 
-# Precompiled Headers
-*.gch
-*.pch
+/temp
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Visual Studio
+#==============
 
-# Fortran module files
-*.mod
-*.smod
+# Explicitly temporary files
+#---------------------------
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+/.vs
 
-# Executables
-*.exe
-*.out
-*.app
+# Solution User Settings
+#-----------------------
+
+*.suo
+
+# Project User Settings
+#----------------------
+
+*.vcxproj.user
+
+# Intellisense
+#-------------
+
+*.sdf
+*.opensdf
+/ipch
+*.VC.db
+*.VC.VC.opendb
+
+# Profiling
+#----------
+
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Resources
+#----------
+
+*.aps
+
+# Windows
+#========
+
+desktop.ini
+Thumbs.db
+
+# Maya
+#=====
+
+**/.mayaswatches

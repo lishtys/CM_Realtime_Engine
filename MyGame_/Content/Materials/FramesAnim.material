@@ -1,0 +1,6 @@
+return
+{
+  tintColor={1,1,1,1},
+  effectPath={"Effects/frames.effect"},
+  albedo={"Textures/frames.jpg"},
+}

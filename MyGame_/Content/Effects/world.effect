@@ -1,0 +1,8 @@
+return
+{
+  -- flag order 
+  --1.DepthBuffering 2.AlphaTransparency 3.DrawingBothTriangleSides
+  renderState={1,0,0},
+  vfShaders={"shaders/vertex/standard.shader","shaders/fragment/worldspace.shader"},
+
+}
